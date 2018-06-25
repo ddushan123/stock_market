@@ -1,6 +1,6 @@
 # stock_market
 
-Team Name : Bitcode
+Team Name : Team BIDCODE
 
 Application Name : Stock-Market-Simulator 
 
