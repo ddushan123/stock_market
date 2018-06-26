@@ -20,4 +20,4 @@ Download stock_market_simulator-1.0.jar file from followin link: https://github.
 Simply double click on the stock_market_simulator-1.0.jar file to execute
 
 
-![picture](Screenshot .png)
+![picture](https://github.com/ddushan123/stock_market/blob/master/Screenshot%20.png)
