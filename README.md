@@ -14,4 +14,4 @@ Application Name : Stock-Market-Simulator
 4. MySQL server
 
 
-![alt text](Screenshots.png)
+![alt text](Screenshot.png)
