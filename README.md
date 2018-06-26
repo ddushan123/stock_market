@@ -12,3 +12,6 @@ Application Name : Stock-Market-Simulator
 2. Propper Internet connection
 3. 300MB HDD Storage
 4. MySQL server
+
+
+![alt text](Screenshots.png)
